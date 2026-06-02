@@ -97,5 +97,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "algorithms-and-data-structures",
+      "title": "Algorithms & Data Structures",
+      "description": "Search, sorting algorithms, simple hash map, and empirical complexity",
+      "path": "assignments/algorithms-and-data-structures",
+      "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Benchmarks",
+          "file": "benchmarks.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }

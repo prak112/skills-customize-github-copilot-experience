@@ -1,0 +1,6 @@
+# Sample input values (one per line) for small manual tests
+5
+1
+3
+2
+4
